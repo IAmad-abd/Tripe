@@ -1694,7 +1694,7 @@ const Home = (props: HomeProps) => {
                       </h1>
                       <div className="tw-flex tw-flex-wrap tw-gap-4">
                         <a
-                          href="https://project%20hive.io/"
+                                                                href="https://www.trippinapetribe.xyz/trippin-ape-tribe-journal.pdf"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1717,7 +1717,7 @@ const Home = (props: HomeProps) => {
                           <span>Whitepaper</span>
                         </a>
                         <a
-                                                                href="https://www.trippinapetribe.xyz/trippin-ape-tribe-journal.pdf"
+                                                                href="https://www.trippinapetribe.xyz/"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1740,7 +1740,7 @@ const Home = (props: HomeProps) => {
                           <span>Website</span>
                         </a>
                         <a
-                                                                href="https://www.trippinapetribe.xyz/"
+                                                                href="https://discord.com/invite/trippinapetribe"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
@@ -1763,7 +1763,7 @@ const Home = (props: HomeProps) => {
                           <span>Discord</span>
                         </a>
                         <a
-                                                                href="https://discord.com/invite/trippinapetribe"
+                                                                href="https://twitter.com/TrippinApeNFT"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
